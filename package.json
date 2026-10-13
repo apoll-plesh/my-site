@@ -4,7 +4,7 @@
     "scripts": {
       "lint": "htmlhint *.html",
       "test": "echo \"Tests passed\" && exit 0",
-      "build": "mkdir -p dist && cp index.html style.css script.js dist/"
+      "build": "mkdir -p dist && cp index.html style.css script.js pushin.jpg dist/"
     },
     "devDependencies": {
       "htmlhint": "^1.1.4"
